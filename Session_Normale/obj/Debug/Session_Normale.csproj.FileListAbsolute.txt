@@ -1,0 +1,12 @@
+c:\users\shannon\documents\visual studio 2015\Projects\Session_Normale\Session_Normale\bin\Debug\Session_Normale.exe.config
+C:\Users\Shannon\Documents\Visual Studio 2015\Projects\Session_Normale\Session_Normale\obj\Debug\Session_Normale.csprojResolveAssemblyReference.cache
+C:\Users\Shannon\Documents\Visual Studio 2015\Projects\Session_Normale\Session_Normale\obj\Debug\Session_Normale.Figure.resources
+C:\Users\Shannon\Documents\Visual Studio 2015\Projects\Session_Normale\Session_Normale\obj\Debug\Session_Normale.Properties.Resources.resources
+C:\Users\Shannon\Documents\Visual Studio 2015\Projects\Session_Normale\Session_Normale\obj\Debug\Session_Normale.csproj.GenerateResource.Cache
+C:\Users\Shannon\Documents\Visual Studio 2015\Projects\Session_Normale\Session_Normale\bin\Debug\Session_Normale.exe
+C:\Users\Shannon\Documents\Visual Studio 2015\Projects\Session_Normale\Session_Normale\bin\Debug\Session_Normale.pdb
+C:\Users\Shannon\Documents\Visual Studio 2015\Projects\Session_Normale\Session_Normale\bin\Debug\MySql.Data.dll
+C:\Users\Shannon\Documents\Visual Studio 2015\Projects\Session_Normale\Session_Normale\bin\Debug\MySql.Data.xml
+C:\Users\Shannon\Documents\Visual Studio 2015\Projects\Session_Normale\Session_Normale\obj\Debug\Session_Normale.exe
+C:\Users\Shannon\Documents\Visual Studio 2015\Projects\Session_Normale\Session_Normale\obj\Debug\Session_Normale.pdb
+C:\Users\Shannon\Documents\Visual Studio 2015\Projects\Session_Normale\Session_Normale\obj\Debug\Session_Normale.Formulaire.resources
